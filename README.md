@@ -6,6 +6,12 @@ For more info, visit <a href ="v.ht/allonz">v.ht/allonz</a>
 
 Original sources:
 
+<a href ="https://github.com/divingmule/plugin.audio.iheart/releases">plugin.audio.iheart</a>
+
+<a href ="https://github.com/gominoa/gominoa-xbmc-addons/tree/master/repo/plugin.audio.pandoki">plugin.audio.pandoki</a>
+
+<a href ="https://github.com/Jidly/plugin.video.channelPEAR">plugin.video.channelPEAR</a>
+
 <a href="https://archive.org/download/allonzsrepo">repository.allonz</a>
 
 <a href="https://github.com/brianhornsby/repository.brianhornsby/tree/master/releases/repository.brianhornsby">repository.brianhornsby</a>
