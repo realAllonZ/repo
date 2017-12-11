@@ -15,6 +15,17 @@
 		
 		v.ht/allonz</description>
 		<disclaimer>AllonZ does not maintain any of the downloads linked from within the addon other than repository.allonz and accepts no responsibility for them</disclaimer>
+		<news>v0.0.1  (2017-12-11)
+- Still trying to make repo installs not fail</news>
 		<platform>all</platform>
+		<language>en</language>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<forum></forum>
+		<website>http://v.ht/allonz</website>
+		<source>https://archive.org/download/allonzsrepo</source>
+		<email>allonz@protonmail.com</email>
+		<assets>
+			<icon>icon.png</icon>
+		</assets>
 	</extension>
 </addon>
