@@ -7,16 +7,15 @@
 		provider-name="AllonZ">
 	<extension point="xbmc.addon.repository" 
 	name="AllonZ's Repo">
-		<info>https://raw.githubusercontent.com/realAllonZ/repository.allonz/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/realAllonZ/repository.allonz/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/realAllonZ/repository.allonz/master/</datadir>
+		<info>https://archive.org/download/allonzsrepo/addons.xml</info>
+		<checksum>https://archive.org/download/allonzsrepo/addons.xml.md5</checksum>
+		<datadir zip="true">https://archive.org/download/allonzsrepo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>AllonZ's Repo</summary>
 		<description>AllonZ's Repo
 		
 		v.ht/allonz</description>
-		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
 </addon>
