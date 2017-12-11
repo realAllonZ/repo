@@ -1,10 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
 <addon id="repository.allonz" 
 		name="AllonZ's Repo" 
 		version="0.0.1" 
-		provider-name="allonz">
+		provider-name="AllonZ">
 	<extension point="xbmc.addon.repository" 
-		name="AllonZ's Repo">
+	name="AllonZ's Repo">
 		<info compressed="false">https://archive.org/download/allonzsrepo/addons.xml</info>
 		<checksum>https://archive.org/download/allonzsrepo/addons.xml.md5</checksum>
 		<datadir zip="true">https://archive.org/download/allonzsrepo</datadir>
@@ -14,7 +16,7 @@
 		<description>AllonZ's Repo
 		
 		v.ht/allonz</description>
-		<disclaimer>AllonZ does not maintain any of the downloads linked from within the addon other than repository.allonz and accepts no responsibility for them</disclaimer>
+		<disclaimer>I didn't do it</disclaimer>
 		<news>v0.0.1  (2017-12-11)
 - Still trying to make repo installs not fail</news>
 		<platform>all</platform>
